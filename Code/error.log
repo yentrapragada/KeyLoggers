@@ -1,0 +1,11 @@
+Mar 27, 2017 5:34:28 PM org.jnativehook.GlobalScreen <clinit>
+SEVERE: C:\Users\dunti\AppData\Local\Temp\JNativeHook-2.0.2.dll (The process cannot access the file because it is being used by another process)
+java.lang.UnsatisfiedLinkError: C:\Users\dunti\AppData\Local\Temp\JNativeHook-2.0.2.dll (The process cannot access the file because it is being used by another process)
+	at org.jnativehook.GlobalScreen.<clinit>(Unknown Source)
+	at KeyLogger1.main(KeyLogger1.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.exe4j.runtime.LauncherEngine.launch(LauncherEngine.java:62)
+	at com.exe4j.runtime.WinLauncher.main(WinLauncher.java:101)
